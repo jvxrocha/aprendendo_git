@@ -1,0 +1,2 @@
+Git basicamente é um sistema de controle de versão . 
+Principais comandos: git clone, git branch, git checkout,  git status, git commit.
